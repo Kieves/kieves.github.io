@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Prueba con Textile!"
+date:   2017-08-17 12:11
+categories: textile sliceoflife demo
+---
+h1. Hola, esta es una mega prueba amigo. 
+
+bq.. voy a probar algunas cosas que tiene Textile aqui.
+esperemos que todo funcione, igual el highlighter de code no esta funcionando tan bien como queria
+
+p. Por que estoy haciendo esto? tengo una lista de razones: 
+
+* Quiero darle a proyectos personales, y este es uno
+* Se me ocurrio que tengo un par de proyectos personales en desarrollo que no he movido en un rato, y escribir sobre ellos en un blog se me hizo un buen refreshser
+* Quiero mejorar mi imagen como desarrollador! Todos los buenos desarrolladores tienen un blog. 
+* Me divierte escribir 
+* Me divierte experimentar con tecnologia nueva para mi
+
+Al parecer si hay bastantes razones!
+
+Check out the "Jekyll docs":http://jekyllrb.com/docs/home for more info on how to get the most out of Jekyll. File all bugs/feature requests at "Jekyll’s GitHub repo":https://github.com/jekyll/jekyll. If you have questions, you can ask them on "Jekyll Talk":https://talk.jekyllrb.com/.
+
+Ok, al parecer los links no funcionan para NADA como funcionan en markdown haha. Pero esta bien, -ya averiguare como hacerlos con Textlile- ya averigue como hacerlo en Textile! :) 
+
+!/assets/smoldoggo.jpg(doggerino)!
+
+Las imagenes sirven! 
